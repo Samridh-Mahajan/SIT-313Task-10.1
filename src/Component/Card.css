@@ -1,0 +1,23 @@
+.row {
+    margin-top: 80px;
+    margin-left: 60px;
+    display: flex;
+    margin-bottom: 80px;
+    
+}
+.column {
+    flex: 33.33%;
+    padding:0px;
+}
+
+.column p{
+    display: block  ;
+}
+.column a{
+    display: inline-block;
+    margin-right: 10px;
+}
+.column h4{
+    display: inline-block;
+    margin-left: 10px;
+}
